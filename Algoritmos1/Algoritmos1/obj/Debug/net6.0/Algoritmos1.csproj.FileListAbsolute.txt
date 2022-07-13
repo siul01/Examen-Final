@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\bin\Debug\net6.0\Algoritmos1.exe
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\bin\Debug\net6.0\Algoritmos1.deps.json
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\bin\Debug\net6.0\Algoritmos1.runtimeconfig.json
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\bin\Debug\net6.0\Algoritmos1.dll
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\bin\Debug\net6.0\Algoritmos1.pdb
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.AssemblyInfo.cs
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.dll
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\refint\Algoritmos1.dll
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.pdb
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\Algoritmos1.genruntimeconfig.cache
+C:\Users\Leo\source\repos\Algoritmos1\Algoritmos1\obj\Debug\net6.0\ref\Algoritmos1.dll
